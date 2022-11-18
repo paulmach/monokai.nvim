@@ -325,7 +325,7 @@ M.load_syntax = function(palette)
       fg = palette.aqua,
     },
     Identifier = {
-      fg = palette.white,
+      fg = palette.orange,
     },
     Function = {
       fg = palette.green,
@@ -366,7 +366,7 @@ M.load_syntax = function(palette)
       fg = palette.pink,
     },
     Delimiter = {
-      fg = palette.white,
+      fg = palette.grey,
     },
     SpecialComment = {
       fg = palette.grey,
@@ -439,7 +439,7 @@ M.load_syntax = function(palette)
       fg = palette.pink,
     },
     Exception = {
-      fg = palette.pink,
+      fg = palette.green,
     },
   }
 end
